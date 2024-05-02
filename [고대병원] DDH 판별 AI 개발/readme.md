@@ -16,12 +16,13 @@
  
 ![그림1](https://github.com/sunnnny02/sunny/assets/122530193/f1686c11-e8d5-4402-90a1-f6c0854de165)
  
- 1번 point : label 1의 왼쪽 point
- 2번 point : label 2의 왼쪽 point
- 3번 point : label 3의 왼쪽 point
- 4번 point : label 3의 오른쪽 point
- 5번 point : label 4의 오른쪽 point
- - 최종 생성된 dataset
+ - 1번 point : label 1의 왼쪽 point
+ - 2번 point : label 2의 왼쪽 point
+ - 3번 point : label 3의 왼쪽 point
+ - 4번 point : label 3의 오른쪽 point
+ - 5번 point : label 4의 오른쪽 point
+   
+## 최종 생성된 dataset
    256x256 크기의 초음파 영상 2,823장
    5개 point 좌표 값을 저장한 텍스트 파일 2,823개
 
