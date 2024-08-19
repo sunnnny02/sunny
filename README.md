@@ -1,2 +1,3 @@
 # sunny
-고려대학교 바이오의공학부 본전공 / 통게학과 이중전공
+2021.03 ~ Korea Univ.
+Major in Biomedical Engineering , Statistics
